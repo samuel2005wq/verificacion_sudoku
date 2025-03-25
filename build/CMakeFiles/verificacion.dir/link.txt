@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/verificacion.dir/sudoku.cpp.o -o verificacion 
